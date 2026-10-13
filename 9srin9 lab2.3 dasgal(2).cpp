@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// Exnii class: Book
+//edit xiib
 class Book {
 protected:
     string title;
